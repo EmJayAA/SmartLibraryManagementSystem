@@ -1,0 +1,12 @@
+C:\Users\MJ ARANZADO\source\repos\SmartLibraryManagementSystem\SmartLibraryManagementSystem\SmartLibrary.Core\bin\Debug\net8.0\SmartLibrary.Core.deps.json
+C:\Users\MJ ARANZADO\source\repos\SmartLibraryManagementSystem\SmartLibraryManagementSystem\SmartLibrary.Core\bin\Debug\net8.0\SmartLibrary.Core.dll
+C:\Users\MJ ARANZADO\source\repos\SmartLibraryManagementSystem\SmartLibraryManagementSystem\SmartLibrary.Core\bin\Debug\net8.0\SmartLibrary.Core.pdb
+C:\Users\MJ ARANZADO\source\repos\SmartLibraryManagementSystem\SmartLibraryManagementSystem\SmartLibrary.Core\obj\Debug\net8.0\SmartLibrary.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MJ ARANZADO\source\repos\SmartLibraryManagementSystem\SmartLibraryManagementSystem\SmartLibrary.Core\obj\Debug\net8.0\SmartLibrary.Core.AssemblyInfoInputs.cache
+C:\Users\MJ ARANZADO\source\repos\SmartLibraryManagementSystem\SmartLibraryManagementSystem\SmartLibrary.Core\obj\Debug\net8.0\SmartLibrary.Core.AssemblyInfo.cs
+C:\Users\MJ ARANZADO\source\repos\SmartLibraryManagementSystem\SmartLibraryManagementSystem\SmartLibrary.Core\obj\Debug\net8.0\SmartLibrary.Core.csproj.CoreCompileInputs.cache
+C:\Users\MJ ARANZADO\source\repos\SmartLibraryManagementSystem\SmartLibraryManagementSystem\SmartLibrary.Core\obj\Debug\net8.0\SmartLibrary.Core.sourcelink.json
+C:\Users\MJ ARANZADO\source\repos\SmartLibraryManagementSystem\SmartLibraryManagementSystem\SmartLibrary.Core\obj\Debug\net8.0\SmartLibrary.Core.dll
+C:\Users\MJ ARANZADO\source\repos\SmartLibraryManagementSystem\SmartLibraryManagementSystem\SmartLibrary.Core\obj\Debug\net8.0\refint\SmartLibrary.Core.dll
+C:\Users\MJ ARANZADO\source\repos\SmartLibraryManagementSystem\SmartLibraryManagementSystem\SmartLibrary.Core\obj\Debug\net8.0\SmartLibrary.Core.pdb
+C:\Users\MJ ARANZADO\source\repos\SmartLibraryManagementSystem\SmartLibraryManagementSystem\SmartLibrary.Core\obj\Debug\net8.0\ref\SmartLibrary.Core.dll

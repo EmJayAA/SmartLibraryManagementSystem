@@ -1,0 +1,8 @@
+C:\Users\MJ ARANZADO\source\repos\SmartLibraryManagementSystem\SmartLibraryManagementSystem\SmartLibaryManagementSystem\obj\Debug\net8.0\SmartLibaryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\MJ ARANZADO\source\repos\SmartLibraryManagementSystem\SmartLibraryManagementSystem\SmartLibaryManagementSystem\obj\Debug\net8.0\SmartLibaryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MJ ARANZADO\source\repos\SmartLibraryManagementSystem\SmartLibraryManagementSystem\SmartLibaryManagementSystem\obj\Debug\net8.0\SmartLibaryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\MJ ARANZADO\source\repos\SmartLibraryManagementSystem\SmartLibraryManagementSystem\SmartLibaryManagementSystem\obj\Debug\net8.0\SmartLibaryManagementSystem.AssemblyInfo.cs
+C:\Users\MJ ARANZADO\source\repos\SmartLibraryManagementSystem\SmartLibraryManagementSystem\SmartLibaryManagementSystem\obj\Debug\net8.0\SmartLibaryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\MJ ARANZADO\source\repos\SmartLibraryManagementSystem\SmartLibraryManagementSystem\SmartLibaryManagementSystem\obj\Debug\net8.0\SmartLibaryManagementSystem.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MJ ARANZADO\source\repos\SmartLibraryManagementSystem\SmartLibraryManagementSystem\SmartLibaryManagementSystem\obj\Debug\net8.0\SmartLibaryManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MJ ARANZADO\source\repos\SmartLibraryManagementSystem\SmartLibraryManagementSystem\SmartLibaryManagementSystem\obj\Debug\net8.0\SmartLibaryManagementSystem.sourcelink.json
