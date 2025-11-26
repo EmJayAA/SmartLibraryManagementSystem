@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SmartLibrary.Core/1.0.0": {
+        "runtime": {
+          "SmartLibrary.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SmartLibrary.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
